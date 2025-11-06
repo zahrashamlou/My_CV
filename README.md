@@ -8,8 +8,7 @@ This repository serves as a digital holding place for my current curriculum vita
 
 Please click the link below to view or download the latest PDF version of my resume.
 
-[**Download/View My Latest CV**]([https://raw.githubusercontent.com/zahrashamlou/My_CV/main/Your_CV_File_Name.pdf](https://github.com/zahrashamlou/My_CV/blob/main/CV_Zahra_Shamlou.pdf))
-
+[**Download/View My Latest CV**](https://raw.githubusercontent.com/zahrashamlou/My_CV/main/Your_CV_File_Name.pdf)
 
 ## 💼 Contact Information
 

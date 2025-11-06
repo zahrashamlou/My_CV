@@ -16,5 +16,5 @@ Please click the link below to view or download the latest PDF version of my res
 
 I am actively seeking opportunities in [Your Industry/Field, e.g., Data Science or Retail Management].
 
-* **Email:** [Your Professional Email Address]
-* **LinkedIn:** [Link to your LinkedIn Profile]
+* **Email:** Zahra.shamlou@su.se
+* **LinkedIn:** https://www.linkedin.com/in/zahra-shamlou/

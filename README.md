@@ -10,7 +10,6 @@ Please click the link below to view or download the latest PDF version of my res
 
 [**Download/View My Latest CV**](https://raw.githubusercontent.com/zahrashamlou/My_CV/main/Your_CV_File_Name.pdf)
 
-*(Note: If you uploaded your file with a different name, please replace `Your_CV_File_Name.pdf` in the link above with the exact name of your file.)*
 
 ## 💼 Contact Information
 

@@ -1,10 +1,8 @@
 # My_CV
 My Updated CV
-# My Professional Resume / CV
+## 📥 My Professional Resume / CV
 
 This repository serves as a digital holding place for my current curriculum vitae (CV) and professional resume document.
-
-## 📥 How to View My CV
 
 Please click the link below to view or download the latest PDF version of my resume.
 
